@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
+| [1189-maximum-number-of-balloons](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1796-second-largest-digit-in-a-string) |
 ## Array
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0344-reverse-string) |
+| [1189-maximum-number-of-balloons](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sorting
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0912-sort-an-array) |
+| [1189-maximum-number-of-balloons](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1189-maximum-number-of-balloons) |
 ## Depth-First Search
 |  |
 | ------- |
