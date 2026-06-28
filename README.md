@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0912-sort-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0414-third-maximum-number) |
+| [0912-sort-an-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,4 +98,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
