@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0876-middle-of-the-linked-list) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1189-maximum-number-of-balloons) |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0334-increasing-triplet-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
