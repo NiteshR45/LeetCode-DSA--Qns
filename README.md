@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1331-rank-transform-of-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1796-second-largest-digit-in-a-string) |
 ## Array
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0912-sort-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1331-rank-transform-of-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0912-sort-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1331-rank-transform-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
