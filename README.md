@@ -236,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0392-is-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
