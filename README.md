@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1331-rank-transform-of-an-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1657-determine-if-two-strings-are-close) |
 | [1796-second-largest-digit-in-a-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1796-second-largest-digit-in-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/NiteshR45/LeetCode-Qns/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Array
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1189-maximum-number-of-balloons) |
+| [1657-determine-if-two-strings-are-close](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1796-second-largest-digit-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1331-rank-transform-of-an-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1657-determine-if-two-strings-are-close) |
 ## Binary Search
 |  |
 | ------- |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1189-maximum-number-of-balloons) |
+| [1657-determine-if-two-strings-are-close](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1657-determine-if-two-strings-are-close) |
 ## Depth-First Search
 |  |
 | ------- |
