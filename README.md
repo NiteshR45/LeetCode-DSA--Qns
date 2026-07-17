@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0912-sort-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1207-unique-number-of-occurrences) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1732-find-the-highest-altitude) |
 ## Greedy
 |  |
