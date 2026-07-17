@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/NiteshR45/LeetCode-Qns/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NiteshR45/LeetCode-Qns/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1732-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |
