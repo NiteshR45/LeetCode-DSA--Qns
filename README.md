@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
+| [0605-can-place-flowers](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0724-find-pivot-index) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0334-increasing-triplet-subsequence) |
+| [0605-can-place-flowers](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
 |  |
 | ------- |
