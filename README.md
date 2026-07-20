@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/NiteshR45/LeetCode-Qns/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1796-second-largest-digit-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2390-removing-stars-from-a-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2390-removing-stars-from-a-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NiteshR45/LeetCode-Qns/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
