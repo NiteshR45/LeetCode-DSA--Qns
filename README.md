@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0912-sort-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1207-unique-number-of-occurrences) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0735-asteroid-collision) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/NiteshR45/LeetCode-Qns/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/2390-removing-stars-from-a-string) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0735-asteroid-collision) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NiteshR45/LeetCode-Qns/tree/master/3867-sum-of-gcd-of-formed-pairs) |
