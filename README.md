@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0031-next-permutation) |
+| [0066-plus-one](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0162-find-peak-element) |
