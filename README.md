@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NiteshR45/LeetCode-Qns/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0912-sort-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1331-rank-transform-of-an-array) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0877-stone-game) |
 ## Enumeration
 |  |
 | ------- |
@@ -305,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0933-number-of-recent-calls) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
