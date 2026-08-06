@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/NiteshR45/LeetCode-Qns/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NiteshR45/LeetCode-Qns/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NiteshR45/LeetCode-Qns/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/NiteshR45/LeetCode-Qns/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
