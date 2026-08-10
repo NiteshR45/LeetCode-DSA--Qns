@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0162-find-peak-element) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
@@ -314,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
