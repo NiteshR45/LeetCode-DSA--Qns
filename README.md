@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0088-merge-sorted-array) |
@@ -322,5 +323,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
