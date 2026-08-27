@@ -1,34 +1,30 @@
 class Solution {
 private:
-    void solve( vector<int>& candidates, int target, vector<vector<int>>& ans, vector<int>output, int index , int count , int k ){
-        if (count == k) {
+    void solve( int start, int target, vector<vector<int>>& ans, vector<int>&output, int k ){
+        if (k == 0) {
             if (target == 0) {
                 ans.push_back(output);
             }
             return;
         }
-        if( index >= candidates.size()){
-            return;
+
+        for(int i=start; i<=9; i++){
+            if(i > target){
+                break;
+            }
+            output.push_back(i);
+
+            solve(i + 1, target - i, ans ,output, k-1);
+
+            output.pop_back();
         }
-        if(target < 0 ){
-            return;
-        }
-
-        output.push_back(candidates[index]);
-
-        solve(candidates , target-candidates[index], ans, output, index+1, count+1, k);
-
-        output.pop_back();
-
-        solve(candidates , target, ans, output, index+1, count, k);
 
     }    
 public:
     vector<vector<int>> combinationSum3(int k, int n) {
         vector<vector<int>> ans;
         vector<int> output;
-        vector<int> candidates ={1,2,3,4,5,6,7,8,9} ;
-        solve( candidates ,n, ans, output, 0 ,0 , k );
+        solve( 1 ,n, ans, output, k );
         return ans;
     }
 };
