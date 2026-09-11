@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0394-decode-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/NiteshR45/LeetCode-Qns/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1796-second-largest-digit-in-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/NiteshR45/LeetCode-Qns/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/NiteshR45/LeetCode-Qns/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NiteshR45/LeetCode-Qns/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Array
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/NiteshR45/LeetCode-Qns/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/NiteshR45/LeetCode-Qns/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NiteshR45/LeetCode-Qns/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NiteshR45/LeetCode-Qns/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/NiteshR45/LeetCode-Qns/tree/master/3875-construct-uniform-parity-array-i) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NiteshR45/LeetCode-Qns/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/NiteshR45/LeetCode-Qns/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
