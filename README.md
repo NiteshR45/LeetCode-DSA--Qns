@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0209-minimum-size-subarray-sum) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0877-stone-game) |
 ## Enumeration
