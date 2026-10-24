@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/NiteshR45/LeetCode-Qns/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/NiteshR45/LeetCode-Qns/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NiteshR45/LeetCode-Qns/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NiteshR45/LeetCode-Qns/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NiteshR45/LeetCode-Qns/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1796-second-largest-digit-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NiteshR45/LeetCode-Qns/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/NiteshR45/LeetCode-Qns/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/NiteshR45/LeetCode-Qns/tree/master/2409-count-days-spent-together) |
 ## Sorting
 |  |
 | ------- |
